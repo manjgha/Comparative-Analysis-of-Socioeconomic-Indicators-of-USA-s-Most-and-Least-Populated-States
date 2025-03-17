@@ -14,6 +14,4 @@ ________________________________________________________________________________
 - Dataset: USDA (United States Department of Agriculture) Dataset containing county-wise socioeconomic data for rural counties of American states. [Link to Dataset](https://catalog.data.gov/dataset/atlas-of-rural-and-small-town-america)
 - PDF file: Presentation containing key insights and a summary of the data preprocessing steps performed.
 - .ipynb files: Jupyter Notebook files that contain code for data cleaning and extraction for each sheet taken from the main dataset.
-____________________________________________________________________________________________
-### Additional Information
-[Link to Tableau](https://public.tableau.com/views/ComparativeAnalysisofSocioeconomicIndicatorsofUSAsMostandLeastPopulatedStates/ComparativeAnalysisofSocioeconomicIndicatorsofPopulationExtremes?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Data Visualization with Tableau: [Link to Tableau](https://public.tableau.com/views/ComparativeAnalysisofSocioeconomicIndicatorsofUSAsMostandLeastPopulatedStates/ComparativeAnalysisofSocioeconomicIndicatorsofPopulationExtremes?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
